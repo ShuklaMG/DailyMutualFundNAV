@@ -1,0 +1,8 @@
+com\cts\dailymutualfundnav\feignclient\AuthorizationClient.class
+com\cts\dailymutualfundnav\exception\MutualFundNotFoundException.class
+com\cts\dailymutualfundnav\model\MutualFund.class
+com\cts\dailymutualfundnav\service\MutualFundService.class
+com\cts\dailymutualfundnav\repository\MutualFundRepository.class
+com\cts\dailymutualfundnav\DailyMutualFundNavApplication.class
+com\cts\dailymutualfundnav\controller\SwaggerUIController.class
+com\cts\dailymutualfundnav\controller\MutualFundController.class

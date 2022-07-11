@@ -1,0 +1,4 @@
+com\cts\dailymutualfundnav\DailyMutualFundNavApplicationTests.class
+com\cts\dailymutualfundnav\service\MutualFundServiceTest.class
+com\cts\dailymutualfundnav\model\MutualFundTest.class
+com\cts\dailymutualfundnav\controller\MutualFundControllerTest.class
